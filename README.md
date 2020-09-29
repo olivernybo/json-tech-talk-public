@@ -51,7 +51,7 @@ Hvis dokumentationen og stackoverflow ikke er tilstrækkeligt kan man spørge Js
       "model": "m12"
     },
     {
-      "id”: "pc",
+      "id": "pc",
       "model": "custom"
     }
   ]
