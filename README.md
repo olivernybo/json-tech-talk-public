@@ -5,7 +5,7 @@ Man starter en JSON fil ved enten at have et array[ ] eller et objekt { } og bru
 
 ## DataTyper:
 [] : arrays  
-“” : strings  
+"" : strings  
 1 : numbers  
 true : boolean  
 {} : objects
